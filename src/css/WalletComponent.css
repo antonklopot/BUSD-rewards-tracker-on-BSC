@@ -1,0 +1,15 @@
+.wallet-content{
+    align-items: center;
+    padding: 20px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: rgb(82,112,138);
+}
+
+.wallet-body {
+    background: rgb(37,68,97);
+    padding: 10px 0px 30px 0px;
+    height: 73%;
+    display: flex;
+    justify-content:center;
+}
